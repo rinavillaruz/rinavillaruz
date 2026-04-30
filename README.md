@@ -19,7 +19,7 @@ Kubernetes MLOps platform demonstrating end-to-end infrastructure ownership — 
 
 **Stack I'm most at home in:**
 - Kubernetes · Helm · ArgoCD · Skaffold
-- Terraform · AWS ·
+- Terraform · AWS · Docker
 - GitHub Actions · Jenkins
 - Python · Bash
 
