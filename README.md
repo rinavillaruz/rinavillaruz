@@ -18,7 +18,7 @@ Kubernetes MLOps platform demonstrating end-to-end infrastructure ownership — 
 - [Dockerfile-multi-stage-build-go](https://gist.github.com/rinavillaruz/3e27a7d994c720ea2cd0757cc5ef1446)
 
 **Stack I'm most at home in:**
-- Kubernetes · Helm · ArgoCD · Skaffold
+- Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> · Helm · ArgoCD · Skaffold
 - Terraform · AWS · Docker
 - GitHub Actions · Jenkins
 - Python · Bash
