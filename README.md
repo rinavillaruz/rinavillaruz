@@ -23,6 +23,6 @@ Kubernetes MLOps platform demonstrating end-to-end infrastructure ownership — 
 - GitHub Actions · Jenkins
 - Python · Bash
 
-**I have DevOps content on [YouTube](https://youtube.com)**  · based in Lund, Sweden 🇸🇪
+**I have DevOps content on [YouTube](https://www.youtube.com/@rinavillaruz)**  · based in Lund, Sweden 🇸🇪
 
-Find me on [LinkedIn](https://linkedin.com) and my [Website](https://rinavillaruz.com)
+Find me on [LinkedIn](https://www.linkedin.com/in/rinavillaruz/) and my [Website](https://rinavillaruz.com)
