@@ -11,7 +11,7 @@ Been doing platform & infrastructure work for 4 years and honestly can't imagine
 
 **What I build for fun:**
 - [dota2metalab-infra](https://github.com/rinavillaruz/dota2metalab-infra) / [dota2metalab-app](https://github.com/rinavillaruz/dota2metalab-app) — About
-Kubernetes MLOps platform demonstrating end-to-end infrastructure ownership — Terraform, ArgoCD, Helm, GitHub Actions, Jenkins, MongoDB.
+End-to-end MLOps platform: Dota 2 draft predictor with 73% accuracy. Neural network trained on 17K+ high-rank matches using hero win rates and team synergy. Deployed on EKS via Terraform, ArgoCD, and Helm — with GitHub Actions CI/CD and Jenkins pipelines.
 - [jeffrey-epstein-files](https://github.com/rinavillaruz/jeffrey-epstein-files) — Kubernetes Indexed Job that bulk-downloads DOJ disclosure PDFs using Python ThreadPoolExecutor across parallel pods.
 - [terraform-aws-kubernetes](https://github.com/rinavillaruz/terraform-aws-kubernetes) - Terraform scripts for provisioning a production-grade Kubernetes cluster on AWS using Terraform modules and Debian 12 / Ubuntu. This project automates the setup of Kubernetes infrastructure, including VPC, subnets, ec2, and more
 - [easy-aws-infrastructure-terraform](https://github.com/rinavillaruz/easy-aws-infrastructure-terraform) - This repository contains Terraform configurations to deploy an Easy AWS Infrastructure via Terraform. It leverages Terraform modules for infrastructure automation.
