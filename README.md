@@ -10,7 +10,7 @@ Been doing platform & infrastructure work for 4 years and honestly can't imagine
 - Occasionally writing Python when the situation calls for it
 
 **What I build for fun:**
-- [dota2metalab-infra](https://github.com/rinavillaruz/dota2metalab-infra) [dota2metalab-app](https://github.com/rinavillaruz/dota2metalab-app) — About
+- [dota2metalab-infra](https://github.com/rinavillaruz/dota2metalab-infra) / [dota2metalab-app](https://github.com/rinavillaruz/dota2metalab-app) — About
 Kubernetes MLOps platform demonstrating end-to-end infrastructure ownership — Terraform, ArgoCD, Helm, GitHub Actions, Jenkins, MongoDB.
 - [jeffrey-epstein-files](https://github.com/rinavillaruz/jeffrey-epstein-files) — Kubernetes Indexed Job that bulk-downloads DOJ disclosure PDFs using Python ThreadPoolExecutor across parallel pods.
 - [terraform-aws-kubernetes](https://github.com/rinavillaruz/terraform-aws-kubernetes) - Terraform scripts for provisioning a production-grade Kubernetes cluster on AWS using Terraform modules and Debian 12 / Ubuntu. This project automates the setup of Kubernetes infrastructure, including VPC, subnets, ec2, and more
