@@ -1,6 +1,6 @@
 Hey, I'm Rina 👋
 
-Been doing platform & infrastructure work for 4 years and honestly can't imagine going back.
+Been doing platform & infrastructure work for 4 years.
 
 **What I do @ work:**
 - Building and operating Kubernetes platforms on AWS
